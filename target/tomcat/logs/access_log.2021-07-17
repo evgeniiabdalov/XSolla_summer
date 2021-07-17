@@ -1,0 +1,5 @@
+127.0.0.1 - - [17/Jul/2021:19:55:47 +0200] "GET /services/Item/all/1 HTTP/1.1" 200 70 http-bio-9090-exec-1 2085
+127.0.0.1 - - [17/Jul/2021:19:55:52 +0200] "GET /services/Item/all/ HTTP/1.1" 200 70 http-bio-9090-exec-2 7
+127.0.0.1 - - [17/Jul/2021:19:55:56 +0200] "POST /services/Item HTTP/1.1" 200 43 http-bio-9090-exec-3 61
+127.0.0.1 - - [17/Jul/2021:19:56:07 +0200] "POST /services/Item HTTP/1.1" 200 50 http-bio-9090-exec-4 8
+127.0.0.1 - - [17/Jul/2021:19:56:27 +0200] "POST /services/Item HTTP/1.1" 200 44 http-bio-9090-exec-5 11
