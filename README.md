@@ -68,32 +68,11 @@ REST API calls:
 
 + POST: localhost:9090/services/Item
 
-       creates an item with a certain attributes 
+       creates an item with a certain attributes
 
-Headers: Content-type application/xml
-
-XML example:
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-   <price>10</price>
-   <SKU>sku</SKU>
-   <name>CS:GO</name>
-   <type>Game</type>
-</item>
-
-
+       
 
 + PUT: localhost:9090/services/Item/ID/{ID}
 
-Headers: Content-type application/xml
-
-XML example:
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-   <price>9</price>
-   <SKU>sku</SKU>
-   <name>CS:GO</name>
-   <type>Game</type>
-</item>
 
          updates an item with a parameter ID with a certain parameters
