@@ -68,9 +68,9 @@ REST API calls:
 
 + POST: localhost:9090/services/Item
 
-       creates an item with a certain attributes
+       creates an item with a certain attributes, xml example is in file 'item_example.xml'
 
-       
+
 
 + PUT: localhost:9090/services/Item/ID/{ID}
 
